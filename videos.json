@@ -1,0 +1,293 @@
+[
+  {
+    "id": 1,
+    "title": "যে ১০ টি ভুল বিগিনার রিয়্যাক্ট ডেভেলপাররা করে থাকেন",
+    "description": "আপনারা যারা বিগিনার হিসেবে রিয়্যাক্ট জেস নিয়ে কাজ করা শুরু করেছেন, তারা রিয়্যাক্ট এর বেশ কিছু কনসেপ্ট ঠিক মতো আয়ত্ত না করতে পারার কারণে বিচিত্র কিছু সমস্যার সম্মুখীন হন এবং শেষ পর্যন্ত বুঝতে না পেরে হতাশ হয়ে পড়েন। তাদের জন্যই এই ভিডিওটি। এই ভিডিওতে আমি এমন ১০টি সমস্যার কথা তুলে ধরেছি যেগুলো বিগিনার হিসেবে আপনারা অহরহ সম্মুখীন হবেন। আশা করি ভিডিওটি দেখলে আপনাদের এই সমস্যাগুলো নিয়ে আর কনফিউশন থাকবেনা।",
+    "authorId": 1,
+    "date": "May 10, 2022",
+    "duration": "10:12",
+    "views": "2.1k",
+    "link": "https://www.youtube-nocookie.com/embed/6O4s7v28nlw",
+    "thumbnail": "https://i3.ytimg.com/vi/6O4s7v28nlw/maxresdefault.jpg",
+    "tags": [
+      "javascript",
+      "react",
+      "tips"
+    ],
+    "likes": 19,
+    "unlikes": 3
+  },
+  {
+    "id": 2,
+    "title": "VS Code Snippets - Boost your productivity with User Snippets",
+    "description": "আমরা যখন Visual Studio Code Editor এ কাজ করি তখন অহরহ ব্যবহৃত কোড ব্লক গুলো আমাদের কে বারবার টাইপ করতে হয় এবং সামগ্রিকভাবে চিন্তা করলে এরকম ছোট ছোট ম্যনুয়াল কাজ আমাদের productivity অনেকাংশেই কমিয়ে দেয়। VS Code এর বিল্ট ইন ইউজার স্নিপেট ফিচারের মাধ্যমে আমরা কমন কাজগুলো স্নিপেট আকারে সাজিয়ে রেখে দিতে পারি এবং শর্টকাট কমান্ডের মাধ্যমে বড় বড় কোড ব্লক গুলো নিয়ে আসতে পারি। এই ভিডিওতে আপনারা এটাই জানতে পারবেন যে কিভাবে আমরা Visual Studio Code Editor এ কাস্টম স্নিপেট লিখতে পারি।",
+    "authorId": 1,
+    "date": "April 25, 2022",
+    "duration": "10:12",
+    "views": "2.1M",
+    "link": "https://www.youtube-nocookie.com/embed/N-U6AVcIPy4",
+    "thumbnail": "https://i3.ytimg.com/vi/N-U6AVcIPy4/maxresdefault.jpg",
+    "tags": [
+      "vscode",
+      "tips"
+    ],
+    "likes": 9,
+    "unlikes": 0
+  },
+  {
+    "id": 3,
+    "title": "Tailwind CSS 3 tutorial - Upgrade to Tailwind 3 | Tailwind CSS Bangla Tutorial",
+    "description": "Tailwind CSS v3.0 came with incredible performance gains, huge workflow improvements, and a seriously ridiculous number of new features. In this tutorial - I have tried to explain different new features of Tailwind CSS version 3, how to install tailwind css 3, how to upgrade from tailwind v2 to v3 etc.",
+    "authorId": 1,
+    "date": "March 11, 2022",
+    "duration": "10:12",
+    "views": "1.2k",
+    "link": "https://www.youtube-nocookie.com/embed/4M7D3O2XX4o",
+    "thumbnail": "https://i3.ytimg.com/vi/4M7D3O2XX4o/maxresdefault.jpg",
+    "tags": [
+      "tailwind",
+      "css"
+    ],
+    "likes": 0,
+    "unlikes": 0
+  },
+  {
+    "id": 4,
+    "title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+    "description": "In this video, I have explained about the debounce function in JavaScript. This is a common question interviewers ask at Job Interviews. If you watch this video carefully, you will understand what is debounce and how to handle it with custom debounce function.",
+    "authorId": 1,
+    "date": "Jan 06, 2022",
+    "duration": "10:12",
+    "views": "1k",
+    "link": "https://www.youtube-nocookie.com/embed/dD9O8DnIBj4",
+    "thumbnail": "https://i3.ytimg.com/vi/dD9O8DnIBj4/maxresdefault.jpg",
+    "tags": [
+      "debounce",
+      "javascript",
+      "tips"
+    ],
+    "likes": 13,
+    "unlikes": 4
+  },
+  {
+    "id": 5,
+    "title": "SASS Tutorial in English - Overview of SASS",
+    "description": "In this video, I have given a high level overview of popular CSS Pre-processor SASS which helps us managing our styles at scale. If you have a basic understanding of CSS & JavaScript, this 10 mins SASS Tutorial will help you getting started with SASS.",
+    "authorId": 1,
+    "date": "Nov 22, 2021",
+    "duration": "10:12",
+    "views": "100k",
+    "link": "https://www.youtube-nocookie.com/embed/4tV1Mfi4fMA",
+    "thumbnail": "https://i3.ytimg.com/vi/4tV1Mfi4fMA/maxresdefault.jpg",
+    "tags": [
+      "sass",
+      "css",
+      "ui"
+    ],
+    "likes": 5,
+    "unlikes": 1
+  },
+  {
+    "id": 6,
+    "title": "React Router DOM v6 Bangla Tutorial - Breaking Changes - React Router 6 vs 5",
+    "description": "In this React Router DOM v6 Bangla tutorial, you will learn how to install react router dom 6, what are the breaking changes in react router 6, difference between react router 6 vs 5, how to upgrade from react router v5 to react router v6. ",
+    "authorId": 1,
+    "date": "Nov 08, 2021",
+    "duration": "10:12",
+    "views": "9M",
+    "link": "https://www.youtube-nocookie.com/embed/34tjWL9wi4g",
+    "thumbnail": "https://i3.ytimg.com/vi/34tjWL9wi4g/maxresdefault.jpg",
+    "tags": [
+      "react",
+      "router",
+      "javascript"
+    ],
+    "likes": 0,
+    "unlikes": 0
+  },
+  {
+    "id": 7,
+    "title": "Tailwind CSS Tutorial Bangla - Introduction to Tailwind CSS",
+    "description": "Tailwind is a utility-first CSS framework to rapidly build modern websites without ever leaving your HTML. In this Tailwind CSS tutorial, I have given a short introduction and overview of Tailwind CSS in Bangla language. Also, I have explained, why Tailwind vs Bootstrap debate should be stopped as both are useful in their own ways.",
+    "authorId": 1,
+    "date": "Oct 15, 2021",
+    "duration": "10:12",
+    "views": "8k",
+    "link": "https://www.youtube-nocookie.com/embed/smDa6hoxLKI",
+    "thumbnail": "https://i3.ytimg.com/vi/smDa6hoxLKI/maxresdefault.jpg",
+    "tags": [
+      "tailwind",
+      "css",
+      "ui"
+    ],
+    "likes": 9,
+    "unlikes": 0
+  },
+  {
+    "id": 8,
+    "title": "Pseudo-elements positioning on steroids",
+    "description": "Pseudo-elements are super useful for creating decorative elements, but sometimes they can be a challenge to place where you want them to go. Using absolute positioning with them on a grid container opens up a whole new level of control though!",
+    "authorId": 2,
+    "date": "Apr 15, 2020",
+    "duration": "13:20",
+    "views": "27K",
+    "link": "https://www.youtube.com/embed/CcoPk7udIpA",
+    "thumbnail": "https://i.ytimg.com/vi/CcoPk7udIpA/hqdefault.jpg",
+    "tags": [
+      "css",
+      "grid"
+    ],
+    "likes": 1,
+    "unlikes": 0
+  },
+  {
+    "id": 9,
+    "title": "Before and After pseudo elements explained",
+    "description": "The before and after pseudo elements are super useful part of CSS, but are often misunderstood. This is part of a three-part series where I look at how they work, and cool stuff we can do with them. In this video, I focus on what ::before and ::after even are and how we can use them, and even why we use the double colon before them, instead of a single one (it's to distinguish them from pseudo-classes, like :hover). One important thing with both the before and after pseudo elements is that they require us to define the content property. Without it, it defaults to none and, well, we can use it! ",
+    "authorId": 2,
+    "date": "Feb 14, 2018",
+    "duration": "09:07",
+    "views": "892K",
+    "link": "https://www.youtube.com/embed/zGiirUiWslI",
+    "thumbnail": "https://i.ytimg.com/vi/zGiirUiWslI/hqdefault.jpg",
+    "tags": [
+      "css"
+    ],
+    "likes": 10,
+    "unlikes": 0
+  },
+  {
+    "id": 10,
+    "title": "Is Sass still relevant?",
+    "description": "Is Sass still relevant? Is it still worth learning SASS in 2022",
+    "authorId": 2,
+    "date": "Mar 29, 2022",
+    "duration": "17:15",
+    "views": "65K",
+    "link": "https://www.youtube.com/embed/JzoGgIB9FDQ",
+    "thumbnail": "https://i.ytimg.com/vi/JzoGgIB9FDQ/hqdefault.jpg",
+    "tags": [
+      "css",
+      "sass"
+    ],
+    "likes": 100,
+    "unlikes": 0
+  },
+  {
+    "id": 11,
+    "title": "Sass vs Scss",
+    "description": "Sass has two different versions, or syntaxes, Sass, and SCSS. In this video I explore the difference between the two and talk a bit about which one you should use. The biggest difference between the two is Sass (using .sass file extension) uses indentation instead of curly braces and semi-colons. SCSS stands for Sassy CSS, and it keeps all the traditional CSS syntax, but adds in the Sass superpowers.",
+    "authorId": 2,
+    "date": "Feb 1, 2019",
+    "duration": "08:52",
+    "views": "149K",
+    "link": "https://www.youtube.com/embed/TymGwiNMlh0",
+    "thumbnail": "https://i.ytimg.com/vi/TymGwiNMlh0/hqdefault.jpg",
+    "tags": [
+      "css",
+      "sass",
+      "scss"
+    ],
+    "likes": 1,
+    "unlikes": 9
+  },
+  {
+    "id": 12,
+    "title": "Flexbox Tutorial - Flexbox containers",
+    "description": "Dive in deep and learn how to really take control of flexbox: https://flexboxsimplified.com Flexbox has pretty much replaced floats and clears, but there are a lot of properties to figure out when you're using it! This video is the start of a short series looking at how Flexbox works. In this video, I break down the different flexbox properties that we can apply to a container, once we've set display: flex ",
+    "authorId": 2,
+    "date": "Jul 12, 2017",
+    "duration": "17:30",
+    "views": "142K",
+    "link": "https://www.youtube.com/embed/hwbqquXww-U",
+    "thumbnail": "https://i.ytimg.com/vi/hwbqquXww-U/hqdefault.jpg",
+    "tags": [
+      "css"
+    ],
+    "likes": 250,
+    "unlikes": 0
+  },
+  {
+    "id": 13,
+    "title": "Why you shouldn't set font-sizes using em",
+    "description": "The first 500 people to sign up using my link will get two free months of Skillshare premium: https://skl.sh/kevinpowell2 A lot of people struggle with the difference between the em and rem units. while there can be situations where it works out, in general I suggest using rems for font-size, and I take a look at why in this video. As you probably guessed, this video was sponsored by Skillshare.",
+    "authorId": 2,
+    "date": "May 22, 2019",
+    "duration": "13:42",
+    "views": "88K",
+    "link": "https://www.youtube.com/embed/pautqDqa54I",
+    "thumbnail": "https://i.ytimg.com/vi/pautqDqa54I/hqdefault.jpg",
+    "tags": [
+      "css"
+    ],
+    "likes": 50,
+    "unlikes": 0
+  },
+  {
+    "id": 14,
+    "title": "Stop using Chrome if you're writing CSS",
+    "description": "Chrome is a great browser, and for JS debugging it has the upperhand, but if you're writing CSS, there's no reason not to be using Firefox as your development browser. It has some amazing features for helping you edit CSS that Chrome just doesn't have.In this video, I explore the ones that aren't the grid and flex inspectors, which are what get most of the attention (because they are awesome too). If you don't know about them, check out this video: Writing both JS and CSS? No harm in switching back and forth depending on your needs at the time. Locking yourself into only using one is silly.",
+    "authorId": 2,
+    "date": "Mar 19, 2020",
+    "duration": "15:29",
+    "views": "326K",
+    "link": "https://www.youtube.com/embed/a-V8GFtwjos",
+    "thumbnail": "https://i.ytimg.com/vi/a-V8GFtwjos/hqdefault.jpg",
+    "tags": [
+      "css",
+      "ui"
+    ],
+    "likes": 50,
+    "unlikes": 0
+  },
+  {
+    "id": 15,
+    "title": "Full stack JavaScript tutorial",
+    "description": "This is a full stack JavaScript tutorial with Vue.js and Node/Express. I will be livestreaming the rest of the building process. This is my first time livestreaming an app creation like this so let me know what you think.",
+    "authorId": 3,
+    "date": "Nov 26, 2019",
+    "duration": "10:15",
+    "views": "7K",
+    "link": "https://www.youtube.com/embed/T_NbpN-UmNE",
+    "thumbnail": "https://i.ytimg.com/vi/T_NbpN-UmNE/hqdefault.jpg",
+    "tags": [
+      "javascript"
+    ],
+    "likes": 190,
+    "unlikes": 0
+  },
+  {
+    "id": 16,
+    "title": "Vue.js Element UI Component Library",
+    "description": "Demo and review of the Element UI Vue.js Component library.",
+    "authorId": 3,
+    "date": "May 1, 2020",
+    "duration": "22:54",
+    "views": "13K",
+    "link": "https://www.youtube.com/embed/-cpCalJTmKU",
+    "thumbnail": "https://i.ytimg.com/vi/-cpCalJTmKU/hqdefault.jpg",
+    "tags": [
+      "javascript",
+      "vue"
+    ],
+    "likes": 190,
+    "unlikes": 0
+  },
+  {
+    "id": 17,
+    "title": "What's new in Vue 3",
+    "description": "Jared Wilcurt is a senior software engineer and passionate Vue.js community member. Today, he is on the show to talk about the excited developments coming up in Vue 3.",
+    "authorId": 3,
+    "date": "Jun 26, 2020",
+    "duration": "59:59",
+    "views": "759",
+    "link": "https://www.youtube.com/embed/PMsTg8fkE-o",
+    "thumbnail": "https://i.ytimg.com/vi/PMsTg8fkE-o/hqdefault.jpg",
+    "tags": [
+      "javascript",
+      "vue"
+    ],
+    "likes": 47,
+    "unlikes": 0
+  }
+]

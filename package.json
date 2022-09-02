@@ -1,0 +1,14 @@
+{
+    "name": "video-gallery-server",
+    "description": "video-gallery-server",
+    "version": "1.0.0",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "json-server": "^0.17.0"
+    },
+    "keywords": [],
+    "author": "Sumit Saha, Learn with Sumit"
+}
